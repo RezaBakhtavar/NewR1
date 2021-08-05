@@ -3,7 +3,7 @@ val1 = True
 print(val1)
 
 # Number to Boolean
-number = 10
+number = 15
 print(bool(number))
 
 number = -5
