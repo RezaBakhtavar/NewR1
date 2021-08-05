@@ -6,7 +6,7 @@ print(val1)
 number = 10
 print(bool(number))
 
-number = -5
+number = -50
 print(bool(number))
 
 number = 0
